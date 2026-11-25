@@ -8,3 +8,4 @@
 - 在 Notion 页面右下角点击「下载 Markdown」。脚本会自动滚动收集正文，完成后恢复原来的阅读位置。
 - 导出保留标题、嵌套列表、表格和行内代码。支持识别的附件以 `[文件名]` 表示。
 - Markdown 在浏览器本地生成和下载，页面正文不会发送给外部服务。
+- 安装入口见 [Greasy Fork](https://greasyfork.org/en/scripts/607230-notion-to-markdown)。
